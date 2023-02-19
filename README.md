@@ -36,4 +36,4 @@ Linux is known for being highly dependable and steadfast, even when running for 
 ## Cost
 Linux is usually free to use and circulate, while Windows normally needs a license cost. This can make Linux an attractive choice for people and organizations looking to reduce expenses.
 
-You can find the use of linux commands [here] (https://github.com/iamtehreem/Tehreem-Fatima-Git-Linux-Commands)
+You can find the use of linux commands [here]([url](https://github.com/iamtehreem/Tehreem-Fatima-Git-Linux-Commands)) 
